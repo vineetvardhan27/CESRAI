@@ -5,7 +5,7 @@ This project automates the extraction, processing, and structured representation
 
 ## High-Level Architecture
 
-![High-Level Architecture](https://github.com/vineetvardhan27/CESRAI/blob/8c647ef1cb9688567bdaac9dc1692b12f705d173/image.png)
+![High-Level Architecture](https://github.com/vineetvardhan27/CESRAI/blob/22ac71c0f46cd7cfd7bff0c8692d3e50c7ad0cf0/image.jpg)
 
 ## Technologies Used
 
