@@ -2,13 +2,10 @@
 
 This project automates the extraction, processing, and structured representation of data from system-generated CERSAI Search Reports. It transforms multiple input PDF documents into a consolidated and client-friendly summary report.
 
-## End-to-End Process Flow
-
-![End-to-End Process Flow](https://storage.googleapis.com/project-mgmt-_tool_bucket/73523707-c230-4325-83f5-197e3ac592e3.png)
 
 ## High-Level Architecture
 
-![High-Level Architecture](https://storage.googleapis.com/project-mgmt-tool_bucket/a0d0d625-f705-4ac4-8b63-8a3c051e5e66.png)
+![High-Level Architecture](https://github.com/vineetvardhan27/CESRAI/blob/8c647ef1cb9688567bdaac9dc1692b12f705d173/image.png)
 
 ## Technologies Used
 
