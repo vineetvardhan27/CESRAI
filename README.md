@@ -56,7 +56,7 @@ Frontend (React) ←→ Backend (Flask) ←→ MongoDB
 
 ### 1. **Clone and Navigate**
 ```bash
-cd digest-a-doc-main
+cd CERSAI
 ```
 
 ### 2. **Backend Setup**
@@ -70,8 +70,8 @@ pip install -r requirements.txt
 #### Set Up Environment Variables
 Create a `.env` file in the `backend/` directory:
 ```env
-MONGODB_URI=mongodb://localhost:27017/digestadoc
-MONGODB_DB=digestadoc
+MONGODB_URI=mongodb://localhost:27017/CERSAI
+MONGODB_DB=CERSAI
 FLASK_SECRET_KEY=your_generated_secret_key_here
 ```
 
@@ -93,8 +93,8 @@ python app.py
 **Expected Output:**
 ```
 🚀 Starting Flask server...
-📊 MongoDB URI: mongodb://localhost:27017/digestadoc
-🗄️  Database: digestadoc
+📊 MongoDB URI: mongodb://localhost:27017/CERSAI
+🗄️  Database: CERSAI
 🌐 Server will run at: http://127.0.0.1:5000
 ✅ MongoDB connected successfully
 ```
@@ -239,7 +239,7 @@ Frontend → GET /export/<pdf_id>/<format> → Backend generates file → Downlo
 mongosh --eval "db.adminCommand('ping')"
 
 # Update .env with correct URI
-MONGODB_URI=mongodb://localhost:27017/digestadoc
+MONGODB_URI=mongodb://localhost:27017/CERSAI
 ```
 
 #### Missing Dependencies
@@ -276,7 +276,7 @@ lsof -ti:5000 | xargs kill -9
 ## 📁 **File Structure**
 
 ```
-digest-a-doc-main/
+CERSAI/
 ├── backend/
 │   ├── app.py              # Main Flask application
 │   ├── export_utils.py     # Export utilities
