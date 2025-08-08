@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pdfplumber
+pymongo
+python-dotenv
+pandas
+openpyxl
+jinja2
+reportlab
