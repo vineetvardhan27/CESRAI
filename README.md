@@ -2,11 +2,6 @@
 
 This project automates the extraction, processing, and structured representation of data from system-generated CERSAI Search Reports. It transforms multiple input PDF documents into a consolidated and client-friendly summary report.
 
-
-## High-Level Architecture
-
-![High-Level Architecture](https://github.com/vineetvardhan27/CESRAI/blob/22ac71c0f46cd7cfd7bff0c8692d3e50c7ad0cf0/image.jpg)
-
 ## Technologies Used
 
 This project is built with:
