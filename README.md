@@ -29,15 +29,11 @@ This project is built with:
 
 ### 1. Clone the repository
 
-```sh
+```
 git clone <YOUR_GIT_URL>
 cd <YOUR_PROJECT_NAME>
+```
 
-
-
-# Complete Setup Guide for Digest-a-Doc
-
-This guide will help you set up and test the complete PDF processing and export system.
 
 ## 🏗️ **System Architecture**
 
